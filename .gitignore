@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.claude/
+# fallback stdio client from session 1; not used for the analysis
+mcp_call.py
+# take-home instructions (the bundle's data lives in data/)
+bundle/

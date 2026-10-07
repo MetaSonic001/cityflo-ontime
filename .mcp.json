@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cityflo-ontime": {
+      "command": "uv",
+      "args": ["run", "--directory", "C:/Users/shaun/projects/cityflo-ontime", "python", "-m", "ontime.server"]
+    }
+  }
+}
